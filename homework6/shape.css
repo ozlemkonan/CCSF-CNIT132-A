@@ -1,0 +1,7 @@
+body { font-family: Helvetica, Arial, sans-serif; 
+    background-color: #f4f5db}
+.content {max-width: 600px; margin: 40px auto; }
+.house { float: left;
+       shape-outside: url(house.png);
+       shape-margin: 10px;
+       }
